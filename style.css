@@ -1,0 +1,66 @@
+.CardPhoto1 img:active{
+    border: 3px solid black;
+    border-radius: 5px;
+    outline: none;
+    transition: border-width 1.3s;
+}
+
+.CardPhoto2 img:active{
+    border: 3px solid black;
+    border-radius: 5px;
+    outline: none;
+    transition: border-width 1.3s;
+}
+
+.CardPhoto3 img:active{
+    border: 3px solid black;
+    border-radius: 5px;
+    outline: none;
+    transition: border-width 1.3s;
+}
+
+
+.CardPhoto4 img:active{
+    border: 3px solid black;
+    border-radius: 5px;
+    outline: none;
+    transition: border-width 1.3s;
+}
+
+
+
+
+.imageWithText {
+    position: relative;/
+}
+
+.imageWithText img {
+    display: block; 
+   
+}
+
+.imageWithText input, .imageWithText.NumbersCard, .imageWithText img{
+    position: absolute; 
+    bottom: 10px; 
+    left: 10px; 
+    color: white; 
+    background: rgba(10, 3, 3, 0); 
+    padding: 5px; 
+}
+
+.imageWithText input{
+    bottom: 70px;
+    width: 250px;
+    margin-left: 20px
+}
+
+
+.Operators{
+    margin-left: 300px;
+}
+
+
+
+
+
+
